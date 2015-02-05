@@ -1,0 +1,125 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-DAB650FE2B67EC3-137E94185198C345
+#datatype	feats
+#status	0
+#Start time	2015-02-03T15:36:31	Run time	0:00:00:03
+#status	success
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - YP_096792.1[cell division protein FtsH [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	ATP binding site	S197,P198,G199,T200,G201,K202,T203,L204,D255,N302	10	10	99707
+Q#1 - YP_096792.1[cell division protein FtsH [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Walker A motif	G196,S197,P198,G199,T200,G201,K202,T203	8	8	99707
+Q#1 - YP_096792.1[cell division protein FtsH [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Walker B motif	I251,I252,F253,I254,D255,E256	6	6	99707
+Q#1 - YP_096792.1[cell division protein FtsH [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	arginine finger	R316	1	1	99707
+Q#2 - YP_096793.1[ribosomal RNA large subunit methyltransferase J [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	S-adenosylmethionine binding site	L96,G97,A98,A99,P100,G101,G102,D121,I122,G136,D137,F138,D162	13	13	100107
+Q#6 - YP_096797.1[chromosome replication initiator DnaA [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	ATP binding site	P64,K65,G66,S67,G68,K69,S70,H71,D114,N149	10	10	99707
+Q#6 - YP_096797.1[chromosome replication initiator DnaA [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Walker A motif	G63,P64,K65,G66,S67,G68,K69,S70	8	8	99707
+Q#6 - YP_096797.1[chromosome replication initiator DnaA [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Walker B motif	T109,L110,I111,I113,D114,D115	6	6	99707
+Q#6 - YP_096797.1[chromosome replication initiator DnaA [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	arginine finger	R165	1	1	99707
+Q#9 - YP_096800.1[POT family peptide transport protein [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	putative substrate translocation pore	F26,V29,Q30,G31,L33,T34,F52,Y55,S56,V59,V63,V64,G66,G67,N113,G114,K117,A118,S121,N122,S125,F139,T140,Y143,M144,S150	51	26	119392
+Q#11 - YP_096802.1[patatin family protein [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	generic	active site	G12,G13,R15,S44,D204	5	5	132848
+Q#11 - YP_096802.1[patatin family protein [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	generic	nucleophile elbow	G42,V43,S44,V45,G46	5	5	132848
+Q#12 - YP_096803.1[shikimate 5-dehydrogenase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	NAD(P) binding site	A126,A129,N149,R150,A183,T184,S185,L209,G233,M236,L237	11	11	133443
+Q#12 - YP_096803.1[shikimate 5-dehydrogenase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	shikimate binding site	D102,Y211,L237,Q240	4	4	133443
+Q#13 - YP_096804.1[aminopeptidase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Zn binding site	H297,H301,E320	3	3	189007
+Q#13 - YP_096804.1[aminopeptidase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	active site	Q119,E121,A122,M260,G261,A262,M263,E264,G293,V294,H297,E298,H301,K319,E320,N373,Y376,Y381,Q813	19	19	189007
+Q#15 - YP_096806.1[hypothetical protein lpg2811 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	metal ion-dependent adhesion site (MIDAS)	D259,T318,D349	3	3	238119
+Q#18 - YP_096809.1[aminopeptidase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	metal binding site	H238,D251,E285,E286,D313,H391	6	6	193500
+Q#18 - YP_096809.1[aminopeptidase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	active site	H238,D251,E285,E286,D313,M314,C358,Y360,C362,C379,F383,H386,H391	13	13	193500
+Q#21 - YP_096812.1[heat shock protein 33, redox regulated chaperonin [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	redox-dependent activation switch	C234,C236,C267,C270	4	4	238278
+Q#21 - YP_096812.1[heat shock protein 33, redox regulated chaperonin [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	dimerization interface	R24,Y149,S153,E154,Q155,Q175,C234	7	7	238278
+Q#21 - YP_096812.1[heat shock protein 33, redox regulated chaperonin [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	domain crossover interface	R24,A169,G171,Q175,L176,M177,P178	7	7	238278
+Q#24 - YP_096815.1[aldo/keto reductase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	active site	G19,C20,M21,D53,Y58,K83,H126,R127,S156,E157,Q178,Y206,C207,P208,I209,A210,R211,A265,I282,P283,G284,T285,H290,E293,N294	25	25	119408
+Q#24 - YP_096815.1[aldo/keto reductase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	catalytic tetrad	D53,Y58,K83,H126	4	4	119408
+Q#26 - YP_096817.1[virulence regulator BipA [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	GTP/Mg2+ binding site	D15,H16,G17,K18,T19,T20,N128,K129,D131,S166,A167,L168	12	12	206678
+Q#26 - YP_096817.1[virulence regulator BipA [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	putative GEF interaction site	H13,D15,T19,T20,D23,L26,Q27,K59,N60,H78,A79,V102,D103,W139,Q143	15	15	206678
+Q#26 - YP_096817.1[virulence regulator BipA [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Switch I region	L48,E49,K50,E51,R52,G53,I54,T55,I56,L57,A58,K59	12	12	206678
+Q#26 - YP_096817.1[virulence regulator BipA [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Switch II region	P76,G77,H78,A79,D80,F81,G82,G83,E84,V85,E86,R87,I88,L89,S90,M91,V92,D93,S94	19	19	206678
+Q#26 - YP_096817.1[virulence regulator BipA [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	G1 box	A12,H13,V14,D15,H16,G17,K18,T19	8	8	206678
+Q#26 - YP_096817.1[virulence regulator BipA [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	G2 box	T55	1	1	206678
+Q#26 - YP_096817.1[virulence regulator BipA [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	G3 box	D74,T75,P76,G77	4	4	206678
+Q#26 - YP_096817.1[virulence regulator BipA [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	G4 box	N128,K129,I130,D131	4	4	206678
+Q#26 - YP_096817.1[virulence regulator BipA [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	G5 box	S166,A167,L168	3	3	206678
+Q#28 - YP_096819.1[DNA repair protein RecN [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	ATP binding site	D458,E459,H490	9	3	213208
+Q#28 - YP_096819.1[DNA repair protein RecN [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	ABC transporter signature motif	A430,S431,G432,G433,E434,L435,S436,R437,I438,S439	10	10	213208
+Q#28 - YP_096819.1[DNA repair protein RecN [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Walker A/P-loop		8	0	213208
+Q#28 - YP_096819.1[DNA repair protein RecN [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Walker B	T454,L455,L456,F457,D458,E459	6	6	213208
+Q#28 - YP_096819.1[DNA repair protein RecN [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	D-loop	V462,G463,I464,G465	4	4	213208
+Q#28 - YP_096819.1[DNA repair protein RecN [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Q-loop/lid		4	0	213208
+Q#28 - YP_096819.1[DNA repair protein RecN [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	H-loop/switch region	F486,C487,V488,T489,H490,Q491,P492	7	7	213208
+Q#28 - YP_096819.1[DNA repair protein RecN [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	ATP binding site	G32,A33,K35,S36,I37,H140	9	6	213208
+Q#28 - YP_096819.1[DNA repair protein RecN [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	ABC transporter signature motif		10	0	213208
+Q#28 - YP_096819.1[DNA repair protein RecN [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Walker A/P-loop	G29,E30,T31,G32,A33,G34,K35,S36	8	8	213208
+Q#28 - YP_096819.1[DNA repair protein RecN [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Walker B		6	0	213208
+Q#28 - YP_096819.1[DNA repair protein RecN [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	D-loop		4	0	213208
+Q#28 - YP_096819.1[DNA repair protein RecN [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Q-loop/lid	L137,M138,Q139,H140	4	4	213208
+Q#28 - YP_096819.1[DNA repair protein RecN [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	H-loop/switch region		7	0	213208
+Q#29 - YP_096820.1[cold shock protein CspE [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	DNA-binding site	W11,F20,F29,K58	4	4	239905
+Q#29 - YP_096820.1[cold shock protein CspE [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	RNA-binding motif	G17,F18,G19,F20,L21,E22,S23,Y28,F29,V30,H31	11	11	239905
+Q#30 - YP_096821.1[hypothetical protein lpg2826 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	generic	conserved cys residue	C133	1	1	153216
+Q#30 - YP_096821.1[hypothetical protein lpg2826 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	generic	conserved cys residue		1	0	153213
+Q#35 - YP_096826.1[VipD [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	active site	G43,G44,K46,S73,D288	5	5	132846
+Q#35 - YP_096826.1[VipD [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	nucleophile elbow	G71,A72,S73,A74,G75	5	5	132846
+Q#38 - YP_096829.1[transcription accessory protein [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	RNA binding site	S658,F666,L676,H678	4	4	240190
+Q#39 - YP_096830.1[thiopurine S-methyltransferase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	S-adenosylmethionine binding site	P46,L47,C48,G49,K50,S51,V52,E68,L69,T106,D107,I108,R125	13	13	100107
+Q#40 - YP_096831.1[glucosamine--fructose-6-phosphate aminotransferase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	glutaminase active site	C2,R27,R74,W75,T77,H78,H87,N100,G101,D125,T126	11	11	238366
+Q#40 - YP_096831.1[glucosamine--fructose-6-phosphate aminotransferase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	active site	K482,E485	2	2	240142
+Q#40 - YP_096831.1[glucosamine--fructose-6-phosphate aminotransferase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	dimer interface	G470,K484,Y488,H490,E492,Y494,E498,K500,H501,G502,L504,A505,L506,V507,D524,K525,N529,H531,E532,R595,N596,V601	22	22	240142
+Q#40 - YP_096831.1[glucosamine--fructose-6-phosphate aminotransferase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	active site	T304,S305,S349,Q350,S351	5	5	240141
+Q#40 - YP_096831.1[glucosamine--fructose-6-phosphate aminotransferase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	dimer interface	C302,G303,K313,Y314,E317,S318,Q325,E327,E331,Y334,D356	11	11	240141
+Q#41 - YP_096832.1[phospholipase/lecithinase/hemolysin, lysophospholipase A, glycerophospholipid-cholesterol acyltransferase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	active site	S37,G159,N222,D398,H401	5	5	238882
+Q#41 - YP_096832.1[phospholipase/lecithinase/hemolysin, lysophospholipase A, glycerophospholipid-cholesterol acyltransferase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	catalytic triad	S37,D398,H401	3	3	238882
+Q#41 - YP_096832.1[phospholipase/lecithinase/hemolysin, lysophospholipase A, glycerophospholipid-cholesterol acyltransferase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	oxyanion hole	S37,G159,N222	3	3	238882
+Q#42 - YP_096833.1[rhodanese domain-containing protein [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	active site residue	C177	1	1	238776
+Q#43 - YP_096834.1[SsrA-binding protein [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	SmpB-tmRNA interface	E28,A29,G30,L31,V32,L33,G35,W36,V38,K39,R42,E59,L88,M89,N90,K91,K92,E93,K121	19	19	187755
+Q#44 - YP_096835.1[peroxiredoxin, AhpC/TSA family protein [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	catalytic triad	T58,C61,R136	3	3	239315
+Q#45 - YP_096836.1[major facilitator transporter [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	putative substrate translocation pore	T22,L25,L26,P27,L29,P30,I47,F50,M51,Q54,V58,L59,W61,G62,A108,V109,P112,V113,W116,A117,Q120,M132,T133,G136,T137,P143,N221,E224,W225,L228,T229,P232,M245,L249,S253,F256,S260,I313,S316,A317,W320,T324,S325,L328,A338,S339,R342,S343,L346,L347,A350	51	51	119392
+Q#46 - YP_096837.1[PhoH protein (phosphate starvation inducible protein) [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	putative active site	D14,E42,D118,D144	4	4	189053
+Q#47 - YP_096838.1[inosine 5'-monophosphate dehydrogenase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	active site	A46,S172,V173,C174,D203,G205,G226,G227,Y251,G253,M254,A255,E274,G275	14	14	238223
+Q#52 - YP_096843.1[ribonuclease T2 family protein [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	generic	active site	H159,W162,H215,E216,K219,H220	6	6	238513
+Q#52 - YP_096843.1[ribonuclease T2 family protein [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	generic	CAS motifs	L156,I157,L158,H159,G160,L161,W162,P163,L212,E213,R214,H215,E216,W217,N218,K219,H220,G221,S222,C223	20	20	238513
+Q#53 - YP_096844.1[hypothetical protein lpg2849 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	TPR motif	A25,Y29,A32,G47,A59,Y63,A66	12	7	238112
+Q#53 - YP_096844.1[hypothetical protein lpg2849 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	binding surface	L17,E18,Y44,Q45,T48,V49,R52,M53	18	8	238112
+Q#54 - YP_096845.1[cold shock transcriptional regulator CspA [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	DNA-binding site	W11,F20,F31,K61	4	4	239905
+Q#54 - YP_096845.1[cold shock transcriptional regulator CspA [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	RNA-binding motif	G17,Y18,G19,F20,I21,S22,R23,V30,F31,V32,H33	11	11	239905
+Q#58 - YP_096849.1[hypothetical protein lpg2854 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	TPR motif	A69,F73,L76,G86,A98,Y102,A105	12	7	238112
+Q#58 - YP_096849.1[hypothetical protein lpg2854 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	binding surface	A59,Y83,N84,G86,N87,A90,H91,Y117,N118	18	9	238112
+Q#59 - YP_096850.1[hypothetical protein lpg2855 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	metal ion-dependent adhesion site (MIDAS)	D99,Y172	3	2	238119
+Q#60 - YP_096851.1[hypothetical protein lpg2856 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	metal ion-dependent adhesion site (MIDAS)	D105,S107,S109,T182,D210	5	5	238744
+Q#61 - YP_096852.1[hypothetical protein lpg2858 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	generic	metal ion-dependent adhesion site (MIDAS)	D91,T161,D196	3	3	238739
+Q#62 - YP_096853.1[MoxR [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	ATP binding site	A52,P53,G54,L55,A56,K57,T58,D114,Q155	10	9	99707
+Q#62 - YP_096853.1[MoxR [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Walker A motif	G51,A52,P53,G54,L55,A56,K57,T58	8	8	99707
+Q#62 - YP_096853.1[MoxR [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Walker B motif	L110,I111,L112,A113,D114,E115	6	6	99707
+Q#62 - YP_096853.1[MoxR [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	arginine finger	R173	1	1	99707
+Q#64 - YP_096855.1[nitrogen regulation protein [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	active site	Q80,C110,P111,K149,R151,V175,H176,R178,R179,G208,D209,R232	12	12	239200
+Q#64 - YP_096855.1[nitrogen regulation protein [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	catalytic residues	C110,R151,H176,R178	4	4	239200
+Q#64 - YP_096855.1[nitrogen regulation protein [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	substrate binding site	P111,K149,V175,R179,G208,D209	6	6	239200
+Q#64 - YP_096855.1[nitrogen regulation protein [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	FMN binding site	G24,P25,L26,M51,Q80,N107,K149,H176,N207,D209,S231,R232	12	12	239200
+Q#66 - YP_096857.1[pteridine reductase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	generic	active site	N127,D154,Y167,K171	4	4	187615
+Q#66 - YP_096857.1[pteridine reductase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	generic	NAD(P) binding site	G24,A26,K27,I29,C48,R49,S50,N103,A104,S105,I152,T153,D154,Y167,K171,P196,G197,A198,I199	19	19	187615
+Q#69 - YP_096860.1[primosomal protein N' [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	ATP binding site	G224,S225,G226,K227,T228	5	5	238005
+Q#69 - YP_096860.1[primosomal protein N' [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	putative Mg++ binding site	D317,E318,E319,H320	4	4	238005
+Q#69 - YP_096860.1[primosomal protein N' [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	generic	nucleotide binding region	N474,N475,C476,Q477,T536,Q537,M538	9	7	238034
+Q#69 - YP_096860.1[primosomal protein N' [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	generic	ATP-binding site	H544,Q577,R581,R584	4	4	238034
+Q#70 - YP_096861.1[hypothetical protein lpg2867 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	active site	Q36,P56,V58,G85,N86,S87,S88	7	7	238329
+Q#71 - YP_096862.1[thymidylate synthase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	active site	R21,E58,W80,W83,Y94,C146,H147,Q165,R166,S167,D169,F176,N177,H207,Y209	15	15	238211
+Q#71 - YP_096862.1[thymidylate synthase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	dimerization interface	V16,D20,S28,F30,R126,R127,N134,V135,L149,Q151,A155,Y164,R166,S167,G204,D205	16	16	238211
+Q#75 - YP_096866.1[dinucleoside polyphosphate hydrolase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Ap4A binding site	N11,R28,H31,Q35,Q38,G39,Y78,L80,Y84,H87,G88,Q96,I138,F140,K141	15	15	239643
+Q#75 - YP_096866.1[dinucleoside polyphosphate hydrolase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	putative metal binding site	E54,E57,E58	3	3	239643
+Q#75 - YP_096866.1[dinucleoside polyphosphate hydrolase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	putative active site	N11,R28,H31,Q35,Q38,G39,E54,E57,E58,Y78,L80,Y84,H87,G88,Q96,I138,F140,K141	18	18	239643
+Q#75 - YP_096866.1[dinucleoside polyphosphate hydrolase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	nudix motif	G39,G40,L41,A42,P43,G44,E45,T46,A47,M48,Q49,A50,M51,Y52,R53,E54,L55,H56,E57,E58,V59,G60,L61	23	23	239643
+Q#76 - YP_096867.1[L-asparaginase I [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	active site	G12,T13,S59,S60,G89,T90,D91,S116,K162	9	9	199207
+Q#76 - YP_096867.1[L-asparaginase I [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	homodimer interface	T13,G22,Y23,E24,P55,D58,S59,S60,N61,M62,T63,V64,E66,W67,D91,T92,Y95,Q117,I118,K162,I163,S164,A165,Q166,R167,F210,I211,A212,N213,F214,R215,L216,F217,P218,G219,F220,S222,D223,E226,L229,N230,E239,Y241,G242,A243,N248,Q272,Q275,G276,K277,V278,E279,Y283,P302,H306,L310	56	56	199207
+Q#78 - YP_096869.1[UDP-N-acetylglucosamine pyrophosphorylase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Substrate binding site	L8,A9,A10,I51,T79,A82,S100,D102	8	8	133020
+Q#78 - YP_096869.1[UDP-N-acetylglucosamine pyrophosphorylase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Mg++ binding site	D102,N230	2	2	133020
+Q#78 - YP_096869.1[UDP-N-acetylglucosamine pyrophosphorylase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	active site	R336,E352,K354,H366,Y369,N380,V381,G382,A383,C388,N389,Y390,K395,F405,G407,S408,G425,A426,E443	19	19	100044
+Q#78 - YP_096869.1[UDP-N-acetylglucosamine pyrophosphorylase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	CoA binding site	A383,C388,Y390,G407,S408,G425,A426,E443	8	8	100044
+Q#78 - YP_096869.1[UDP-N-acetylglucosamine pyrophosphorylase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	substrate binding site	R336,E352,K354,H366,Y369,N380,V381,G382,N389,K395	10	10	100044
+Q#79 - YP_096870.1[arsenite efflux protein ArsB [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	transmembrane helices	I27,W28,A29,I30,M31,A32,T33,G34,A35,I36,A37,V38,L39,L40,P55,D56,V57,M58,L59,Y60,L61,F62,G63,V64,F65,F66,I67,S68,Q69,A70,A71,E72,L95,M96,L97,I98,V99,F100,I101,L102,G103,L104,S105,S106,A107,V108,L109,M110,N111,T113,I114,A115,I116,I117,G118,T119,P120,I121,I122,L123,Q124,L125,C126,Q127,S128,H129,K130,K134,P135,L136,L137,L138,A139,L140,A141,F142,S143,I144,T145,I146,G147,S148,T149,M150,S151,P152,I153,G154,N155,P156,Q157,A179,V180,P181,T182,L183,L184,N185,L186,G187,I188,V189,Y190,F191,F192,I193,L226,L227,M228,M229,L230,V231,L232,T233,M234,I235,K236,I237,L238,N250,F251,S252,Y253,I254,A255,L256,L257,S258,S259,V260,P261,I262,W263,F264,L275,D276,W277,G278,T279,L280,V281,F282,F283,A284,S285,T286,F287,I288,L289,M290,Q291,S292,V293,H312,I313,V314,V315,I316,F317,I318,M319,S320,I321,A322,L323,S324,Q325,L326,I327,L350,L351,S352,L353,A354,A355,G356,S357,T358,I359,A360,G361,N362,L363,S364,I365,L366,G367,A368,A369,A396,P397,L398,T399,L400,L401,N402,L403,L404,V405,Y406,I407,S408	206	202	238537
+Q#81 - YP_096872.1[cobalt/magnesium uptake transporter [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	oligomer interface	L88,E91,D92,Q98,R99,K101,D103,S152,R156,S162,Y171,Y174,D182,F185,E189,L195,E196,E199,I203,N204,L211,Q212,Y215,K218,R219,I222,K226,K248,L252,Y253,R255,D256,D259,H260,I262,R263,E266,S267,D269,L270,R272,E273,M274,S277,M278,L279,D280,I281,Y282,L283,S284,I286,N287,N288,R289,M290,N291,E292,S293,M294,K295,I296,L297,T298,F300,A301,S302,F304,I305,P306,L307,S308,F309,A311,G312,V313,Y314,G315,M316,N317,F318,G329,Y330,I333,L334,M337,F348,K351	88	88	213362
+Q#81 - YP_096872.1[cobalt/magnesium uptake transporter [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	metal binding site	D92,D256	2	2	213362
+Q#81 - YP_096872.1[cobalt/magnesium uptake transporter [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	metal binding site	E91,D178,D256	3	3	213362
+Q#81 - YP_096872.1[cobalt/magnesium uptake transporter [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Cl binding site	R156,Y171	2	2	213362
+Q#81 - YP_096872.1[cobalt/magnesium uptake transporter [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	periplasmic entrance	G312,Y314,G315	3	3	213362
+Q#81 - YP_096872.1[cobalt/magnesium uptake transporter [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	putative hydrophobic gate	M294,L297	2	2	213362
+Q#81 - YP_096872.1[cobalt/magnesium uptake transporter [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	basic sphincter	R289,K295,K349,R350,K351,K352	6	6	213362
+Q#81 - YP_096872.1[cobalt/magnesium uptake transporter [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	aspartate ring	D280	1	1	213362
