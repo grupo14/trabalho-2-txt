@@ -1,0 +1,10 @@
+(
+(
+>[Legionella:0.17684,
+>[Coxiella:0.17863)
+:0.02470,
+>[Chromohalobacter:0.20298,
+(
+>[Pseudomonas:0.12701,
+>[Azotobacter:0.12677)
+:0.08268);
