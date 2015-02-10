@@ -1,0 +1,16 @@
+(
+(
+(
+>[Escherichia:0.14041,
+>[Haemophilus:0.14568)
+:0.05703,
+>[Neisseria:0.18254)
+:0.00598,
+>[Bordetella:0.19912,
+(
+>[Legionella:0.21123,
+(
+>[Bacillus:0.28489,
+>[Pongo:0.36497)
+:0.07725)
+:0.00798);
