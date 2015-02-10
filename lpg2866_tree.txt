@@ -1,0 +1,10 @@
+(
+(
+>[Bacillus:0.32226,
+>[Chlamydia:0.32950)
+:0.07278,
+(
+>[Escherichia:0.23751,
+>[Haemophilus:0.23414)
+:0.04751,
+>[Legionella:0.29226);
