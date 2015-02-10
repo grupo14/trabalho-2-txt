@@ -1,0 +1,10 @@
+(
+(
+>[Synechocystis:0.25312,
+>[Mycobacterium:0.26835)
+:0.05382,
+>[Escherichia:0.34767,
+(
+>[Legionella:0.30547,
+>[Bacillus:0.31238)
+:0.12963);
