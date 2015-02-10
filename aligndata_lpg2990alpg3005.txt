@@ -1,0 +1,1658 @@
+Seq-annot ::= {
+  id {
+    local str "QM3-qcdsearch-46897D66B51B427-731E8525F037F72"
+  },
+  name "Batch CD-search tool - NIH/NLM/NCBI",
+  desc {
+    comment "status=0"
+  },
+  data ids {
+    local str "aligns Concise Results"
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#1 - YP_096982.1",
+    comment "hypothetical protein lpg2990 [Legionella pneumophila subsp.
+ pneumophila str. Philadelphia 1]"
+  },
+  data align {
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#2 - YP_096983.1",
+    comment "hemolysin, lipoprotein [Legionella pneumophila subsp. pneumophila
+ str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 3,
+        ids {
+          gi 52843184,
+          general {
+            db "CDD",
+            tag id 203137
+          }
+        },
+        starts {
+          136,
+          1,
+          -1,
+          25,
+          160,
+          26
+        },
+        lens {
+          24,
+          1,
+          24
+        },
+        scores {
+        }
+      },
+      id {
+        id 203137,
+        str "pfam04972",
+        str "BON",
+        id 207723,
+        str "cl02771",
+        str "BON superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 7,
+        ids {
+          gi 52843184,
+          general {
+            db "CDD",
+            tag id 182907
+          }
+        },
+        starts {
+          5,
+          3,
+          -1,
+          28,
+          30,
+          33,
+          62,
+          -1,
+          63,
+          65,
+          -1,
+          118,
+          116,
+          120
+        },
+        lens {
+          25,
+          5,
+          32,
+          1,
+          53,
+          2,
+          69
+        },
+        scores {
+        }
+      },
+      id {
+        id 182907,
+        str "PRK11023",
+        str "PRK11023"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#3 - YP_096984.1",
+    comment "hypothetical protein lpg2992 [Legionella pneumophila subsp.
+ pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 3,
+        ids {
+          gi 52843185,
+          general {
+            db "CDD",
+            tag id 203137
+          }
+        },
+        starts {
+          138,
+          0,
+          -1,
+          23,
+          161,
+          24
+        },
+        lens {
+          23,
+          1,
+          22
+        },
+        scores {
+        }
+      },
+      id {
+        id 203137,
+        str "pfam04972",
+        str "BON",
+        id 207723,
+        str "cl02771",
+        str "BON superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 1,
+        ids {
+          gi 52843185,
+          general {
+            db "CDD",
+            tag id 203137
+          }
+        },
+        starts {
+          61,
+          0
+        },
+        lens {
+          53
+        },
+        scores {
+        }
+      },
+      id {
+        id 203137,
+        str "pfam04972",
+        str "BON",
+        id 207723,
+        str "cl02771",
+        str "BON superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 7,
+        ids {
+          gi 52843185,
+          general {
+            db "CDD",
+            tag id 225379
+          }
+        },
+        starts {
+          10,
+          11,
+          -1,
+          37,
+          36,
+          40,
+          -1,
+          68,
+          64,
+          69,
+          -1,
+          166,
+          161,
+          167
+        },
+        lens {
+          26,
+          3,
+          28,
+          1,
+          97,
+          1,
+          28
+        },
+        scores {
+        }
+      },
+      id {
+        id 225379,
+        str "COG2823",
+        str "OsmY"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#4 - YP_096985.1",
+    comment "hypothetical protein lpg2993 [Legionella pneumophila subsp.
+ pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 3,
+        ids {
+          gi 52843186,
+          general {
+            db "CDD",
+            tag id 240139
+          }
+        },
+        starts {
+          11,
+          0,
+          154,
+          -1,
+          157,
+          143
+        },
+        lens {
+          143,
+          3,
+          34
+        },
+        scores {
+        }
+      },
+      id {
+        id 240139,
+        str "cd05006",
+        str "SIS_GmhA",
+        id 271480,
+        str "cl00389",
+        str "SIS superfamily"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#5 - YP_096986.1",
+    comment "hypothetical protein lpg2994 [Legionella pneumophila subsp.
+ pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 1,
+        ids {
+          gi 52843187,
+          general {
+            db "CDD",
+            tag id 237119
+          }
+        },
+        starts {
+          2,
+          5
+        },
+        lens {
+          114
+        },
+        scores {
+        }
+      },
+      id {
+        id 237119,
+        str "PRK12497",
+        str "PRK12497",
+        id 275614,
+        str "cl00516",
+        str "Mrr_cat superfamily"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#6 - YP_096987.1",
+    comment "lipoprotein [Legionella pneumophila subsp. pneumophila str.
+ Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 21,
+        ids {
+          gi 52843188,
+          general {
+            db "CDD",
+            tag id 107334
+          }
+        },
+        starts {
+          277,
+          16,
+          294,
+          -1,
+          295,
+          33,
+          -1,
+          43,
+          305,
+          44,
+          -1,
+          78,
+          339,
+          80,
+          -1,
+          97,
+          356,
+          98,
+          -1,
+          163,
+          421,
+          164,
+          448,
+          -1,
+          453,
+          191,
+          -1,
+          211,
+          473,
+          212,
+          -1,
+          226,
+          487,
+          228,
+          -1,
+          264,
+          523,
+          265,
+          -1,
+          301,
+          559,
+          306
+        },
+        lens {
+          17,
+          1,
+          10,
+          1,
+          34,
+          2,
+          17,
+          1,
+          65,
+          1,
+          27,
+          5,
+          20,
+          1,
+          14,
+          2,
+          36,
+          1,
+          36,
+          5,
+          29
+        },
+        scores {
+        }
+      },
+      id {
+        id 107334,
+        str "cd06339",
+        str "PBP1_YraM_LppC_lipoprotein_like",
+        id 275911,
+        str "cl10011",
+        str "Periplasmic_Binding_Protein_Type_1 superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 27,
+        ids {
+          gi 52843188,
+          general {
+            db "CDD",
+            tag id 225649
+          }
+        },
+        starts {
+          50,
+          49,
+          -1,
+          88,
+          89,
+          89,
+          125,
+          -1,
+          126,
+          125,
+          173,
+          -1,
+          174,
+          172,
+          -1,
+          183,
+          185,
+          184,
+          198,
+          -1,
+          200,
+          197,
+          -1,
+          288,
+          291,
+          290,
+          -1,
+          340,
+          341,
+          341,
+          -1,
+          354,
+          354,
+          355,
+          441,
+          -1,
+          444,
+          442,
+          -1,
+          461,
+          463,
+          462,
+          -1,
+          488,
+          489,
+          489,
+          -1,
+          523,
+          523,
+          528,
+          536,
+          -1,
+          537,
+          541
+        },
+        lens {
+          39,
+          1,
+          36,
+          1,
+          47,
+          1,
+          11,
+          1,
+          13,
+          2,
+          91,
+          2,
+          50,
+          1,
+          13,
+          1,
+          87,
+          3,
+          19,
+          1,
+          26,
+          1,
+          34,
+          5,
+          13,
+          1,
+          57
+        },
+        scores {
+        }
+      },
+      id {
+        id 225649,
+        str "COG3107",
+        str "LppC"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#7 - YP_096988.1",
+    comment "tetrapyrrole (corrin/porphyrin) methylase [Legionella pneumophila
+ subsp. pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 5,
+        ids {
+          gi 52843189,
+          general {
+            db "CDD",
+            tag id 212507
+          }
+        },
+        starts {
+          11,
+          0,
+          185,
+          -1,
+          186,
+          174,
+          215,
+          -1,
+          217,
+          203
+        },
+        lens {
+          174,
+          1,
+          29,
+          2,
+          15
+        },
+        scores {
+        }
+      },
+      id {
+        id 212507,
+        str "cd11648",
+        str "RsmI",
+        id 275518,
+        str "cl00304",
+        str "TP_methylase superfamily"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#8 - YP_096989.1",
+    comment "alkane-1 monooxygenase [Legionella pneumophila subsp. pneumophila
+ str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 5,
+        ids {
+          gi 52843190,
+          general {
+            db "CDD",
+            tag id 239589
+          }
+        },
+        starts {
+          60,
+          0,
+          -1,
+          22,
+          82,
+          23,
+          92,
+          -1,
+          94,
+          33
+        },
+        lens {
+          22,
+          1,
+          10,
+          2,
+          281
+        },
+        scores {
+        }
+      },
+      id {
+        id 239589,
+        str "cd03512",
+        str "Alkane-hydroxylase",
+        id 271507,
+        str "cl00615",
+        str "Membrane-FADS-like superfamily"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#9 - YP_096990.1",
+    comment "sulfate transporter [Legionella pneumophila subsp. pneumophila
+ str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 5,
+        ids {
+          gi 52843191,
+          general {
+            db "CDD",
+            tag id 237999
+          }
+        },
+        starts {
+          590,
+          3,
+          -1,
+          52,
+          639,
+          55,
+          -1,
+          60,
+          644,
+          62
+        },
+        lens {
+          49,
+          3,
+          5,
+          2,
+          53
+        },
+        scores {
+        }
+      },
+      id {
+        id 237999,
+        str "cd00038",
+        str "CAP_ED",
+        id 275464,
+        str "cl00047",
+        str "CAP_ED superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 3,
+        ids {
+          gi 52843191,
+          general {
+            db "CDD",
+            tag id 132913
+          }
+        },
+        starts {
+          454,
+          1,
+          -1,
+          37,
+          490,
+          41
+        },
+        lens {
+          36,
+          4,
+          54
+        },
+        scores {
+        }
+      },
+      id {
+        id 132913,
+        str "cd07042",
+        str "STAS_SulP_like_sulfate_transporter",
+        id 275634,
+        str "cl00604",
+        str "STAS superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 11,
+        ids {
+          gi 52843191,
+          general {
+            db "CDD",
+            tag id 250221
+          }
+        },
+        starts {
+          125,
+          1,
+          -1,
+          39,
+          163,
+          40,
+          -1,
+          51,
+          174,
+          60,
+          -1,
+          129,
+          243,
+          130,
+          255,
+          -1,
+          259,
+          142,
+          -1,
+          217,
+          334,
+          218
+        },
+        lens {
+          38,
+          1,
+          11,
+          9,
+          69,
+          1,
+          12,
+          4,
+          75,
+          1,
+          61
+        },
+        scores {
+        }
+      },
+      id {
+        id 271849,
+        str "cl19250",
+        str "Sulfate_transp superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 23,
+        ids {
+          gi 52843191,
+          general {
+            db "CDD",
+            tag id 223732
+          }
+        },
+        starts {
+          68,
+          40,
+          -1,
+          79,
+          107,
+          96,
+          -1,
+          174,
+          185,
+          181,
+          210,
+          -1,
+          213,
+          206,
+          226,
+          -1,
+          229,
+          219,
+          257,
+          -1,
+          262,
+          247,
+          -1,
+          319,
+          334,
+          320,
+          -1,
+          368,
+          382,
+          369,
+          433,
+          -1,
+          436,
+          420,
+          450,
+          -1,
+          452,
+          434,
+          -1,
+          474,
+          492,
+          476,
+          541,
+          -1,
+          542,
+          525
+        },
+        lens {
+          39,
+          17,
+          78,
+          7,
+          25,
+          3,
+          13,
+          3,
+          28,
+          5,
+          72,
+          1,
+          48,
+          1,
+          51,
+          3,
+          14,
+          2,
+          40,
+          2,
+          49,
+          1,
+          20
+        },
+        scores {
+        }
+      },
+      id {
+        id 223732,
+        str "COG0659",
+        str "SUL1"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 7,
+        ids {
+          gi 52843191,
+          general {
+            db "CDD",
+            tag id 223736
+          }
+        },
+        starts {
+          581,
+          0,
+          -1,
+          58,
+          639,
+          61,
+          -1,
+          66,
+          644,
+          68,
+          697,
+          -1,
+          701,
+          121
+        },
+        lens {
+          58,
+          3,
+          5,
+          2,
+          53,
+          4,
+          14
+        },
+        scores {
+        }
+      },
+      id {
+        id 223736,
+        str "COG0664",
+        str "Crp"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#10 - YP_096991.1",
+    comment "hypothetical protein lpg2999 [Legionella pneumophila subsp.
+ pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 13,
+        ids {
+          gi 52843192,
+          general {
+            db "CDD",
+            tag id 239807
+          }
+        },
+        starts {
+          80,
+          0,
+          120,
+          -1,
+          125,
+          40,
+          137,
+          -1,
+          139,
+          52,
+          -1,
+          77,
+          164,
+          78,
+          -1,
+          122,
+          208,
+          123,
+          -1,
+          129,
+          214,
+          130,
+          -1,
+          159,
+          243,
+          160
+        },
+        lens {
+          40,
+          5,
+          12,
+          2,
+          25,
+          1,
+          44,
+          1,
+          6,
+          1,
+          29,
+          1,
+          20
+        },
+        scores {
+        }
+      },
+      id {
+        id 239807,
+        str "cd04280",
+        str "ZnMc_astacin_like",
+        id 275466,
+        str "cl00064",
+        str "ZnMc superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 17,
+        ids {
+          gi 52843192,
+          general {
+            db "CDD",
+            tag id 250590
+          }
+        },
+        starts {
+          77,
+          1,
+          123,
+          -1,
+          126,
+          47,
+          137,
+          -1,
+          139,
+          58,
+          -1,
+          83,
+          164,
+          84,
+          204,
+          -1,
+          205,
+          124,
+          -1,
+          129,
+          210,
+          131,
+          -1,
+          135,
+          214,
+          136,
+          -1,
+          154,
+          232,
+          155,
+          -1,
+          164,
+          241,
+          166
+        },
+        lens {
+          46,
+          3,
+          11,
+          2,
+          25,
+          1,
+          40,
+          1,
+          5,
+          2,
+          4,
+          1,
+          18,
+          1,
+          9,
+          2,
+          22
+        },
+        scores {
+        }
+      },
+      id {
+        id 250590,
+        str "pfam01400",
+        str "Astacin"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#11 - YP_096992.1",
+    comment "hypothetical protein lpg3000 [Legionella pneumophila subsp.
+ pneumophila str. Philadelphia 1]"
+  },
+  data align {
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#12 - YP_096993.1",
+    comment "tRNA modification GTPase TrmE [Legionella pneumophila subsp.
+ pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 5,
+        ids {
+          gi 52843194,
+          general {
+            db "CDD",
+            tag id 206727
+          }
+        },
+        starts {
+          212,
+          0,
+          307,
+          -1,
+          310,
+          95,
+          -1,
+          120,
+          335,
+          124
+        },
+        lens {
+          95,
+          3,
+          25,
+          4,
+          35
+        },
+        scores {
+        }
+      },
+      id {
+        id 206727,
+        str "cd04164",
+        str "trmE",
+        id 276299,
+        str "cl21455",
+        str "ABC_ATPase superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 3,
+        ids {
+          gi 52843194,
+          general {
+            db "CDD",
+            tag id 204472
+          }
+        },
+        starts {
+          4,
+          0,
+          37,
+          -1,
+          38,
+          33
+        },
+        lens {
+          33,
+          1,
+          81
+        },
+        scores {
+        }
+      },
+      id {
+        id 204472,
+        str "pfam10396",
+        str "TrmE_N",
+        id 204472,
+        str "cl11057",
+        str "TrmE_N superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 1,
+        ids {
+          gi 52843194,
+          general {
+            db "CDD",
+            tag id 257176
+          }
+        },
+        starts {
+          371,
+          1
+        },
+        lens {
+          72
+        },
+        scores {
+        }
+      },
+      id {
+        id 257176,
+        str "pfam12631",
+        str "GTPase_Cys_C",
+        id 257176,
+        str "cl14994",
+        str "GTPase_Cys_C superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 13,
+        ids {
+          gi 52843194,
+          general {
+            db "CDD",
+            tag id 206746
+          }
+        },
+        starts {
+          139,
+          8,
+          -1,
+          34,
+          165,
+          36,
+          -1,
+          38,
+          167,
+          39,
+          -1,
+          45,
+          173,
+          47,
+          -1,
+          62,
+          188,
+          65,
+          220,
+          -1,
+          221,
+          97,
+          254,
+          -1,
+          257,
+          130
+        },
+        lens {
+          26,
+          2,
+          2,
+          1,
+          6,
+          2,
+          15,
+          3,
+          32,
+          1,
+          33,
+          3,
+          16
+        },
+        scores {
+        }
+      },
+      id {
+        id 276299,
+        str "cl21455",
+        str "ABC_ATPase superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 9,
+        ids {
+          gi 52843194,
+          general {
+            db "CDD",
+            tag id 235392
+          }
+        },
+        starts {
+          0,
+          1,
+          52,
+          -1,
+          53,
+          53,
+          311,
+          -1,
+          314,
+          311,
+          -1,
+          332,
+          335,
+          335,
+          -1,
+          371,
+          371,
+          374
+        },
+        lens {
+          52,
+          1,
+          258,
+          3,
+          21,
+          3,
+          36,
+          3,
+          75
+        },
+        scores {
+        }
+      },
+      id {
+        id 235392,
+        str "PRK05291",
+        str "trmE"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#13 - YP_096994.1",
+    comment "inner membrane protein, 60 kDa [Legionella pneumophila subsp.
+ pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 7,
+        ids {
+          gi 52843195,
+          general {
+            db "CDD",
+            tag id 274665
+          }
+        },
+        starts {
+          360,
+          0,
+          459,
+          -1,
+          460,
+          99,
+          -1,
+          130,
+          491,
+          131,
+          -1,
+          143,
+          503,
+          144
+        },
+        lens {
+          99,
+          1,
+          31,
+          1,
+          12,
+          1,
+          35
+        },
+        scores {
+        }
+      },
+      id {
+        id 274665,
+        str "TIGR03592",
+        str "yidC_oxa1_cterm",
+        id 275602,
+        str "cl00489",
+        str "60KD_IMP superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 15,
+        ids {
+          gi 52843195,
+          general {
+            db "CDD",
+            tag id 258986
+          }
+        },
+        starts {
+          73,
+          0,
+          -1,
+          65,
+          138,
+          66,
+          -1,
+          139,
+          211,
+          140,
+          223,
+          -1,
+          225,
+          152,
+          237,
+          -1,
+          239,
+          164,
+          250,
+          -1,
+          251,
+          175,
+          -1,
+          204,
+          280,
+          205,
+          -1,
+          210,
+          285,
+          212
+        },
+        lens {
+          65,
+          1,
+          73,
+          1,
+          12,
+          2,
+          12,
+          2,
+          11,
+          1,
+          29,
+          1,
+          5,
+          2,
+          66
+        },
+        scores {
+        }
+      },
+      id {
+        id 258986,
+        str "pfam14849",
+        str "YidC_periplas",
+        id 258986,
+        str "cl20749",
+        str "YidC_periplas superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 21,
+        ids {
+          gi 52843195,
+          general {
+            db "CDD",
+            tag id 234942
+          }
+        },
+        starts {
+          0,
+          0,
+          38,
+          -1,
+          72,
+          38,
+          105,
+          -1,
+          106,
+          71,
+          -1,
+          108,
+          143,
+          110,
+          223,
+          -1,
+          228,
+          190,
+          238,
+          -1,
+          239,
+          200,
+          252,
+          -1,
+          253,
+          213,
+          276,
+          -1,
+          277,
+          236,
+          -1,
+          250,
+          291,
+          251,
+          -1,
+          287,
+          327,
+          288,
+          -1,
+          436,
+          475,
+          441
+        },
+        lens {
+          38,
+          34,
+          33,
+          1,
+          37,
+          2,
+          80,
+          5,
+          10,
+          1,
+          13,
+          1,
+          23,
+          1,
+          14,
+          1,
+          36,
+          1,
+          148,
+          5,
+          78
+        },
+        scores {
+        }
+      },
+      id {
+        id 234942,
+        str "PRK01318",
+        str "PRK01318"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#14 - YP_096995.1",
+    comment "hypothetical protein lpg3003 [Legionella pneumophila subsp.
+ pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 1,
+        ids {
+          gi 52843196,
+          general {
+            db "CDD",
+            tag id 184654
+          }
+        },
+        starts {
+          0,
+          0
+        },
+        lens {
+          81
+        },
+        scores {
+        }
+      },
+      id {
+        id 184654,
+        str "PRK14380",
+        str "PRK14380",
+        id 275608,
+        str "cl00506",
+        str "Haemolytic superfamily"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#15 - YP_096996.1",
+    comment "ribonuclease P protein component [Legionella pneumophila subsp.
+ pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 3,
+        ids {
+          gi 52843197,
+          general {
+            db "CDD",
+            tag id 179002
+          }
+        },
+        starts {
+          4,
+          59,
+          -1,
+          77,
+          22,
+          79
+        },
+        lens {
+          18,
+          2,
+          35
+        },
+        scores {
+        }
+      },
+      id {
+        id 271491,
+        str "cl00457",
+        str "Ribonuclease_P superfamily"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#16 - YP_096997.1",
+    comment "50S ribosomal protein L34 [Legionella pneumophila subsp.
+ pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 1,
+        ids {
+          gi 52843198,
+          general {
+            db "CDD",
+            tag id 179004
+          }
+        },
+        starts {
+          0,
+          0
+        },
+        lens {
+          44
+        },
+        scores {
+        }
+      },
+      id {
+        id 179004,
+        str "PRK00399",
+        str "rpmH",
+        id 275556,
+        str "cl00370",
+        str "Ribosomal_L34 superfamily"
+      }
+    }
+  }
+}
