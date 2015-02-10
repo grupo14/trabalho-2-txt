@@ -1,0 +1,16 @@
+(
+(
+>[Legionella:0.28353,
+>[Bacillus:0.22288)
+:0.03538,
+>[Coxiella:0.22797,
+(
+>[Helicobacter:0.30191,
+(
+(
+>[Haemophilus:0.18787,
+>[Escherichia:0.19278)
+:0.07229,
+>[Mycobacterium:0.28284)
+:0.04214)
+:0.02490);
