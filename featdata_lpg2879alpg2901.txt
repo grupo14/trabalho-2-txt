@@ -1,0 +1,58 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-13AD26558B1569B3-192A9FB0014113B6
+#datatype	feats
+#status	0
+#Start time	2015-02-10T14:38:54	Run time	0:00:00:01
+#status	success
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#2 - YP_096874.1[endonuclease III [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	active site	D138	1	1	238013
+Q#2 - YP_096874.1[endonuclease III [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	substrate binding pocket	V124,H176,I180	3	3	238013
+Q#2 - YP_096874.1[endonuclease III [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	minor groove reading motif	Q41,A42,T43,S46,K85	5	5	238013
+Q#2 - YP_096874.1[endonuclease III [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	helix-hairpin-helix signature motif	L114,P115,G116,V117,G118,R119,K120,T121	8	8	238013
+Q#4 - YP_096876.2[methionyl-tRNA synthetase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	active site	A12,L13,Y15,D52,W253,A256,P257,Y260,I295,H299	10	10	173907
+Q#4 - YP_096876.2[methionyl-tRNA synthetase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	HIGH motif	H21,L22,G23,H24	4	4	173907
+Q#4 - YP_096876.2[methionyl-tRNA synthetase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	KMSKS motif	K330,M331,S332,K333,S334	5	5	173907
+Q#4 - YP_096876.2[methionyl-tRNA synthetase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	putative tRNA-binding site	K592,Q604,N630,R634,S641,M644	6	6	239199
+Q#4 - YP_096876.2[methionyl-tRNA synthetase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	dimer interface	S567,A614,N630,L631,E632,T635,A647,A648,G649,D650,L656,Q658,D660,A663,M667,K668,V669,K670	18	18	239199
+Q#4 - YP_096876.2[methionyl-tRNA synthetase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	anticodon binding site	N380,V384,G385,V388,N389,S392,R393,G396,F397,I453,W459	11	11	153411
+Q#4 - YP_096876.2[methionyl-tRNA synthetase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	tRNA binding surface	N380,A381,V384,G385,V388,N389,S392,R393,G396,F397,N450,Q451,I453,D454,W459	16	15	153411
+Q#7 - YP_096879.1[hypothetical protein lpg2885 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	generic	Cl- selectivity filter		15	0	238233
+Q#7 - YP_096879.1[hypothetical protein lpg2885 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	generic	pore gating glutamate residue		1	0	238233
+Q#7 - YP_096879.1[hypothetical protein lpg2885 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	generic	Cl- binding residues		7	0	238233
+Q#7 - YP_096879.1[hypothetical protein lpg2885 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	generic	dimer interface		10	0	238233
+Q#8 - YP_096880.1[exoenzyme S synthesis protein B [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Ligand Binding Site	L12,L13,S14,G16,L17,D18,S19,G41,R43	9	9	238953
+Q#9 - YP_096881.1[phosphomannose isomerase GDP mannose pyrophosphorylase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Substrate binding site	L29,G31,D135	3	3	133003
+Q#12 - YP_096884.1[16S rRNA methyltransferase GidB [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	S-adenosylmethionine binding site	V75,G76,T77,G78,P79,G80,L81,D99,S100,I125,R126,V127,R142	13	13	100107
+Q#13 - YP_096885.1[sporulation initiation inhibitor protein Soj [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	P-loop	K11,G12,G13,V14,G15,K16,T17	7	7	238997
+Q#13 - YP_096885.1[sporulation initiation inhibitor protein Soj [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Magnesium ion binding site	T17,D124	2	2	238997
+Q#16 - YP_096888.1[cytochrome c oxidase subunit III [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Subunit I/III interface	Q74,R77,S78,S89,C92,A96,F97,F103,G221,I222,T225,M229	12	12	238834
+Q#16 - YP_096888.1[cytochrome c oxidase subunit III [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Subunit III/Vb interface	Q184	1	1	238834
+Q#16 - YP_096888.1[cytochrome c oxidase subunit III [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Subunit III/VIa interface 	W153,G154,L155,W172,L198,H208,E209,A210,N215,A220,G221	11	11	238834
+Q#16 - YP_096888.1[cytochrome c oxidase subunit III [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Subunit III/VIb interface	L135	1	1	238834
+Q#16 - YP_096888.1[cytochrome c oxidase subunit III [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Subunit III/VIIa interface	G57,G60,Q61,Y64,S67,K68	7	6	238834
+Q#16 - YP_096888.1[cytochrome c oxidase subunit III [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Phospholipid binding site	W58,F59,V62,I63,N66,Y71,G82,M83,F86,M244,R251,F263,A264	13	13	238834
+Q#18 - YP_096890.1[cytochrome c oxidase subunit I [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Binuclear center (heme a3/CuB)	H262,H311,H312,H397	4	4	238833
+Q#18 - YP_096890.1[cytochrome c oxidase subunit I [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Low-spin heme (heme a) binding site	H85,H399,V403,T445,F482	5	5	238833
+Q#18 - YP_096890.1[cytochrome c oxidase subunit I [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	D-pathway	Y43,N103,D114,N121,S124,S178,S179,N185,T189	9	9	238833
+Q#18 - YP_096890.1[cytochrome c oxidase subunit I [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	K-pathway	H262,Y266,S277,H311,H312,T337,K340	7	7	238833
+Q#18 - YP_096890.1[cytochrome c oxidase subunit I [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Electron transfer pathway	F398,R459,R460	3	3	238833
+Q#18 - YP_096890.1[cytochrome c oxidase subunit I [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Putative proton exit pathway	H312,Q389,D390,R459,R460	5	5	238833
+Q#18 - YP_096890.1[cytochrome c oxidase subunit I [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Putative water exit pathway	D249,Q254,H255,D385,Q389,D390,R459	7	7	238833
+Q#18 - YP_096890.1[cytochrome c oxidase subunit I [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Subunit I/II interface	N79,D249,K286,F289,G290,T315,T316,G317,L320,E323,M331,I339,F342,F349,K350,G351,I363,L381,V382,A384,F386,Q387,Y388,Q389,D390,L454,A455,R459,R460,I461,N470,F471	32	32	238833
+Q#18 - YP_096890.1[cytochrome c oxidase subunit I [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Subunit I/III interface	T34,P113,L117,R119,W126,D166,F170,A188,N192,I212,A219,P222,M230,T239,S240,F241,G246,G247,D249,F259,Y296,V299,A302,V303,I307	25	25	238833
+Q#18 - YP_096890.1[cytochrome c oxidase subunit I [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Subunit I/IV interface	L63,F66,Q67,R429,K432,W433,L466,L484	8	8	238833
+Q#18 - YP_096890.1[cytochrome c oxidase subunit I [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Subunit I/Vb interface	P287,Y291,T521	3	3	238833
+Q#18 - YP_096890.1[cytochrome c oxidase subunit I [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Subunit I/VIa interface	T159,R235,H236,F237,G238	5	5	238833
+Q#18 - YP_096890.1[cytochrome c oxidase subunit I [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Subunit I/VIb interface	G317	1	1	238833
+Q#18 - YP_096890.1[cytochrome c oxidase subunit I [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Subunit I/VIc interface	K350	1	1	238833
+Q#18 - YP_096890.1[cytochrome c oxidase subunit I [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Subunit I/VIIa interface	S137,F140	2	2	238833
+Q#18 - YP_096890.1[cytochrome c oxidase subunit I [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Subunit I/VIIb interface	L466,N470	2	2	238833
+Q#18 - YP_096890.1[cytochrome c oxidase subunit I [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Subunit I/VIIc interface	I49,V53,A56,V60,M139,F140,W421,V494,V497	9	9	238833
+Q#18 - YP_096890.1[cytochrome c oxidase subunit I [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Subunit I/VIIIb interface	L430,L487	2	2	238833
+Q#18 - YP_096890.1[cytochrome c oxidase subunit I [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Dimer interface 	I212,A219,F259,Y296,V299,A302,V303,I307	8	8	238833
+Q#19 - YP_096891.1[cytochrome c oxidase subunit II [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	CuA binding site	H195,C230,E232,C234,H238,M241	6	6	259979
+Q#19 - YP_096891.1[cytochrome c oxidase subunit II [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	subunit I/II interface	K205,D207,P210,F212,H214,Q229,C230,A231,E232,I236,H238,G239	12	12	259979
+Q#19 - YP_096891.1[cytochrome c oxidase subunit II [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	subunit II/IV interface	V225,R227	2	2	259979
+Q#19 - YP_096891.1[cytochrome c oxidase subunit II [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	subunit II/VIb interface	S123,D124,T126,K128,Q139,R185,N191,F212,M213,H214,E215	11	11	259979
+Q#19 - YP_096891.1[cytochrome c oxidase subunit II [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	subunit II/VIc interface	D173,P175,V180,N181,P223	5	5	259979
