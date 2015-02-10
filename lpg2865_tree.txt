@@ -1,0 +1,7 @@
+(
+(
+>[Archaeoglobus:0.31109,
+>[Pyrococcus:0.34978)
+:0.08851,
+>[Methanothermobacter:0.33890,
+>[Legionella:0.39235);
