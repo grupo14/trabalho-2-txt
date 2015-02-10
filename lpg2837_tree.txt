@@ -1,0 +1,10 @@
+(
+(
+(
+>[Arabidopsis:0.32460,
+>[Brassica:0.31927)
+:0.08036,
+>[Legionella:0.39549)
+:0.02384,
+>[Aeromonas:0.40877,
+>[Vibrio:0.44650);
