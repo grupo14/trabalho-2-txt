@@ -1,0 +1,13 @@
+(
+(
+>[Glycine:0.15095,
+>[Rauvolfia:0.14667)
+:0.06857,
+(
+>[Arabidopsis:0.12339,
+>[Oryza:0.14617)
+:0.06954,
+(
+>[Legionella:0.28983,
+>[Schizosaccharomyces:0.28510)
+:0.07269);
