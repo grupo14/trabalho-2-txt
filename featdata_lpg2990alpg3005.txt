@@ -1,0 +1,33 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-46897D66B51B427-239C94A5DFF62D90
+#datatype	feats
+#status	0
+#Start time	2015-02-10T16:23:19	Run time	0:00:00:01
+#status	success
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#4 - YP_096985.1[hypothetical protein lpg2993 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	active site	S52,G53,G54,T120,T121,S122,S125,T171,R175	9	9	240139
+Q#4 - YP_096985.1[hypothetical protein lpg2993 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	dimer interface	T15,K19,A31,G34,G54,M60,H61,R175,E176,F180,H183,D187,Q191	13	13	240139
+Q#6 - YP_096987.1[lipoprotein [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	putative ligand binding site	L328,T329,K330,N349,D350,W394,Y471,S496	8	8	107334
+Q#7 - YP_096988.1[tetrapyrrole (corrin/porphyrin) methylase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	putative SAM binding site	I19,A91,G92,T93,I96,S97,C121,A122,Y167,A193,E195,I196,E225,F226,V227	15	15	212507
+Q#7 - YP_096988.1[tetrapyrrole (corrin/porphyrin) methylase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	putative homodimer interface	I25,S26,F27,R28,L30,T93,P94,L95,I96,S97,D98,F101,P102,V104,K105,P116,P118,G119,A120,C121,L123,I124,L127,S128,F137,A138,F139,L140,G141	29	29	212507
+Q#8 - YP_096989.1[alkane-1 monooxygenase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Di-iron ligands	H153,H157,H183,H187,H188,H327,H330,H331	8	8	239589
+Q#9 - YP_096990.1[sulfate transporter [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	ligand binding site	G652,E653,R662,T663,A664	5	5	237999
+Q#9 - YP_096990.1[sulfate transporter [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	flexible hinge region	E684,L685,S686,P690,L691,L692	6	6	237999
+Q#10 - YP_096991.1[hypothetical protein lpg2999 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	active site	H166,E167,H170,H176,Y223	5	5	239807
+Q#12 - YP_096993.1[tRNA modification GTPase TrmE [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	GTP/Mg2+ binding site	N225,G227,K228,S229,T230,N332,K333,D335,S351,A352,K353	11	11	206727
+Q#12 - YP_096993.1[tRNA modification GTPase TrmE [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Switch I region	G237,R238,D239,V240,A241,I242,V243,T244,E245,I246,A247,G248,T249,T250,R251,D252,I253	17	17	206727
+Q#12 - YP_096993.1[tRNA modification GTPase TrmE [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	Switch II region	I268,D269,T270,A271,G272,L273,R274,D275,S276,D277,D278,V280,E281,K282,E283,G284,I285,K286,R287,A288,W289,Q290,E291,L292,K293,R294	26	26	206727
+Q#12 - YP_096993.1[tRNA modification GTPase TrmE [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	G1 box	G222,R223,P224,N225,A226,G227,K228,S229	8	8	206727
+Q#12 - YP_096993.1[tRNA modification GTPase TrmE [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	G2 box	T250	1	1	206727
+Q#12 - YP_096993.1[tRNA modification GTPase TrmE [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	G3 box	D269,T270,A271,G272	4	4	206727
+Q#12 - YP_096993.1[tRNA modification GTPase TrmE [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	G4 box	N332,K333,I334,D335	4	4	206727
+Q#12 - YP_096993.1[tRNA modification GTPase TrmE [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	specific	G5 box	S351,A352,K353	3	3	206727
+Q#12 - YP_096993.1[tRNA modification GTPase TrmE [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	generic	GTP/Mg2+ binding site	R166,Y168,S189,P224,N225,A226,G227,K228,S229,T230,G272	14	11	206746
+Q#12 - YP_096993.1[tRNA modification GTPase TrmE [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	generic	G1 box	G222,R223,P224,N225,A226,G227,K228,S229	8	8	206746
+Q#12 - YP_096993.1[tRNA modification GTPase TrmE [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	generic	G2 box	T250	1	1	206746
+Q#12 - YP_096993.1[tRNA modification GTPase TrmE [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	generic	G3 box	D269,T270,A271,G272	4	4	206746
+Q#12 - YP_096993.1[tRNA modification GTPase TrmE [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	generic	G4 box	R166,M167	4	2	206746
+Q#12 - YP_096993.1[tRNA modification GTPase TrmE [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	generic	G5 box	S189,Q190	3	2	206746
+Q#12 - YP_096993.1[tRNA modification GTPase TrmE [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	generic	Switch I region	A247,G248,T249,T250,R251,D252,I253,M254	8	8	206746
+Q#12 - YP_096993.1[tRNA modification GTPase TrmE [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]]	generic	Switch II region	A271,G272,L273	3	3	206746
