@@ -1,0 +1,2215 @@
+Seq-annot ::= {
+  id {
+    local str "QM3-qcdsearch-13AD26558B1569B3-367DA9BD10EFDA94"
+  },
+  name "Batch CD-search tool - NIH/NLM/NCBI",
+  desc {
+    comment "status=0"
+  },
+  data ids {
+    local str "aligns Concise Results"
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#1 - YP_096873.1",
+    comment "hypothetical protein lpg2879 [Legionella pneumophila subsp.
+ pneumophila str. Philadelphia 1]"
+  },
+  data align {
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#2 - YP_096874.1",
+    comment "endonuclease III [Legionella pneumophila subsp. pneumophila str.
+ Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 9,
+        ids {
+          gi 52843075,
+          general {
+            db "CDD",
+            tag id 238013
+          }
+        },
+        starts {
+          29,
+          0,
+          -1,
+          27,
+          56,
+          28,
+          80,
+          -1,
+          81,
+          52,
+          -1,
+          75,
+          104,
+          78,
+          -1,
+          123,
+          149,
+          124
+        },
+        lens {
+          27,
+          1,
+          24,
+          1,
+          23,
+          3,
+          45,
+          1,
+          34
+        },
+        scores {
+        }
+      },
+      id {
+        id 238013,
+        str "cd00056",
+        str "ENDO3c",
+        id 276383,
+        str "cl22429",
+        str "ENDO3c superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 1,
+        ids {
+          gi 52843075,
+          general {
+            db "CDD",
+            tag id 197771
+          }
+        },
+        starts {
+          185,
+          0
+        },
+        lens {
+          21
+        },
+        scores {
+        }
+      },
+      id {
+        id 197771,
+        str "smart00525",
+        str "FES",
+        id 276666,
+        str "cl22712",
+        str "EndIII_4Fe-2S superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 1,
+        ids {
+          gi 52843075,
+          general {
+            db "CDD",
+            tag id 182661
+          }
+        },
+        starts {
+          0,
+          0
+        },
+        lens {
+          208
+        },
+        scores {
+        }
+      },
+      id {
+        id 182661,
+        str "PRK10702",
+        str "PRK10702"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#3 - YP_096875.1",
+    comment "iron-sulfur cluster binding protein [Legionella pneumophila
+ subsp. pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 1,
+        ids {
+          gi 52843076,
+          general {
+            db "CDD",
+            tag id 112857
+          }
+        },
+        starts {
+          9,
+          0
+        },
+        lens {
+          35
+        },
+        scores {
+        }
+      },
+      id {
+        id 112857,
+        str "pfam04060",
+        str "FeS",
+        id 248069,
+        str "cl17515",
+        str "FeS superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 3,
+        ids {
+          gi 52843076,
+          general {
+            db "CDD",
+            tag id 132092
+          }
+        },
+        starts {
+          81,
+          7,
+          -1,
+          25,
+          99,
+          32
+        },
+        lens {
+          18,
+          7,
+          28
+        },
+        scores {
+        }
+      },
+      id {
+        id 276229,
+        str "cl19102",
+        str "HCP_like superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 5,
+        ids {
+          gi 52843076,
+          general {
+            db "CDD",
+            tag id 181550
+          }
+        },
+        starts {
+          3,
+          7,
+          63,
+          -1,
+          68,
+          67,
+          -1,
+          71,
+          72,
+          75
+        },
+        lens {
+          60,
+          5,
+          4,
+          4,
+          60
+        },
+        scores {
+        }
+      },
+      id {
+        id 181550,
+        str "PRK08764",
+        str "PRK08764"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#4 - YP_096876.2",
+    comment "methionyl-tRNA synthetase [Legionella pneumophila subsp.
+ pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 9,
+        ids {
+          gi 161723239,
+          general {
+            db "CDD",
+            tag id 173907
+          }
+        },
+        starts {
+          5,
+          0,
+          137,
+          -1,
+          158,
+          132,
+          160,
+          -1,
+          184,
+          134,
+          -1,
+          157,
+          207,
+          160,
+          272,
+          -1,
+          275,
+          225
+        },
+        lens {
+          132,
+          21,
+          2,
+          24,
+          23,
+          3,
+          65,
+          3,
+          87
+        },
+        scores {
+        }
+      },
+      id {
+        id 173907,
+        str "cd00814",
+        str "MetRS_core",
+        id 275460,
+        str "cl00015",
+        str "nt_trans superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 1,
+        ids {
+          gi 161723239,
+          general {
+            db "CDD",
+            tag id 239199
+          }
+        },
+        starts {
+          565,
+          0
+        },
+        lens {
+          105
+        },
+        scores {
+        }
+      },
+      id {
+        id 239199,
+        str "cd02800",
+        str "tRNA_bind_EcMetRS_like",
+        id 271468,
+        str "cl00320",
+        str "tRNA_bindingDomain superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 5,
+        ids {
+          gi 161723239,
+          general {
+            db "CDD",
+            tag id 153411
+          }
+        },
+        starts {
+          375,
+          4,
+          404,
+          -1,
+          407,
+          33,
+          467,
+          -1,
+          468,
+          93
+        },
+        lens {
+          29,
+          3,
+          60,
+          1,
+          36
+        },
+        scores {
+        }
+      },
+      id {
+        id 153411,
+        str "cd07957",
+        str "Anticodon_Ia_Met",
+        id 264512,
+        str "cl12020",
+        str "Anticodon_Ia_like superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 13,
+        ids {
+          gi 161723239,
+          general {
+            db "CDD",
+            tag id 234655
+          }
+        },
+        starts {
+          4,
+          1,
+          -1,
+          201,
+          204,
+          202,
+          -1,
+          269,
+          271,
+          270,
+          467,
+          -1,
+          469,
+          466,
+          -1,
+          546,
+          549,
+          548,
+          -1,
+          564,
+          565,
+          567,
+          -1,
+          655,
+          653,
+          656
+        },
+        lens {
+          200,
+          1,
+          67,
+          1,
+          196,
+          2,
+          80,
+          2,
+          16,
+          3,
+          88,
+          1,
+          17
+        },
+        scores {
+        }
+      },
+      id {
+        id 234655,
+        str "PRK00133",
+        str "metG"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#5 - YP_096877.1",
+    comment "3-octaprenyl-4-hydroxybenzoate carboxy-lyase [Legionella
+ pneumophila subsp. pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 3,
+        ids {
+          gi 52843078,
+          general {
+            db "CDD",
+            tag id 223241
+          }
+        },
+        starts {
+          21,
+          19,
+          -1,
+          50,
+          52,
+          52
+        },
+        lens {
+          31,
+          2,
+          136
+        },
+        scores {
+        }
+      },
+      id {
+        id 223241,
+        str "COG0163",
+        str "UbiX",
+        id 267543,
+        str "cl19190",
+        str "Flavoprotein superfamily"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#6 - YP_096878.1",
+    comment "hypothetical protein lpg2884 [Legionella pneumophila subsp.
+ pneumophila str. Philadelphia 1]"
+  },
+  data align {
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#7 - YP_096879.1",
+    comment "hypothetical protein lpg2885 [Legionella pneumophila subsp.
+ pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 13,
+        ids {
+          gi 52843080,
+          general {
+            db "CDD",
+            tag id 250034
+          }
+        },
+        starts {
+          2,
+          176,
+          -1,
+          180,
+          6,
+          182,
+          25,
+          -1,
+          27,
+          201,
+          -1,
+          219,
+          45,
+          220,
+          -1,
+          226,
+          51,
+          227,
+          -1,
+          246,
+          70,
+          251,
+          -1,
+          257,
+          76,
+          267
+        },
+        lens {
+          4,
+          2,
+          19,
+          2,
+          18,
+          1,
+          6,
+          1,
+          19,
+          5,
+          6,
+          10,
+          17
+        },
+        scores {
+        }
+      },
+      id {
+        id 261508,
+        str "cl02915",
+        str "Voltage_gated_ClC superfamily"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#8 - YP_096880.1",
+    comment "exoenzyme S synthesis protein B [Legionella pneumophila subsp.
+ pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 7,
+        ids {
+          gi 52843081,
+          general {
+            db "CDD",
+            tag id 238953
+          }
+        },
+        starts {
+          7,
+          0,
+          59,
+          -1,
+          94,
+          52,
+          153,
+          -1,
+          158,
+          111,
+          198,
+          -1,
+          200,
+          151
+        },
+        lens {
+          52,
+          35,
+          59,
+          5,
+          40,
+          2,
+          18
+        },
+        scores {
+        }
+      },
+      id {
+        id 238953,
+        str "cd01995",
+        str "ExsB",
+        id 275515,
+        str "cl00292",
+        str "AANH_like superfamily"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#9 - YP_096881.1",
+    comment "phosphomannose isomerase GDP mannose pyrophosphorylase
+ [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 9,
+        ids {
+          gi 52843082,
+          general {
+            db "CDD",
+            tag id 133003
+          }
+        },
+        starts {
+          23,
+          0,
+          -1,
+          48,
+          71,
+          49,
+          122,
+          -1,
+          123,
+          100,
+          155,
+          -1,
+          156,
+          132,
+          249,
+          -1,
+          250,
+          225
+        },
+        lens {
+          48,
+          1,
+          51,
+          1,
+          32,
+          1,
+          93,
+          1,
+          49
+        },
+        scores {
+        }
+      },
+      id {
+        id 133003,
+        str "cd02509",
+        str "GDP-M1P_Guanylyltransferase",
+        id 275925,
+        str "cl11394",
+        str "Glyco_tranf_GTA_type superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 1,
+        ids {
+          gi 52843082,
+          general {
+            db "CDD",
+            tag id 144587
+          }
+        },
+        starts {
+          335,
+          0
+        },
+        lens {
+          151
+        },
+        scores {
+        }
+      },
+      id {
+        id 276307,
+        str "cl21464",
+        str "ABD superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 7,
+        ids {
+          gi 52843082,
+          general {
+            db "CDD",
+            tag id 273648
+          }
+        },
+        starts {
+          23,
+          0,
+          -1,
+          71,
+          94,
+          72,
+          147,
+          -1,
+          148,
+          125,
+          -1,
+          163,
+          186,
+          164
+        },
+        lens {
+          71,
+          1,
+          53,
+          1,
+          38,
+          1,
+          304
+        },
+        scores {
+        }
+      },
+      id {
+        id 273648,
+        str "TIGR01479",
+        str "Mannose-1-phosphate_guanylyltransferase"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#10 - YP_096882.1",
+    comment "hypothetical protein lpg2888 [Legionella pneumophila subsp.
+ pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 11,
+        ids {
+          gi 52843083,
+          general {
+            db "CDD",
+            tag id 189762
+          }
+        },
+        starts {
+          318,
+          102,
+          -1,
+          115,
+          331,
+          116,
+          -1,
+          129,
+          344,
+          132,
+          -1,
+          146,
+          358,
+          154,
+          -1,
+          169,
+          373,
+          170,
+          -1,
+          174,
+          377,
+          175
+        },
+        lens {
+          13,
+          1,
+          13,
+          3,
+          14,
+          8,
+          15,
+          1,
+          4,
+          1,
+          8
+        },
+        scores {
+        }
+      },
+      id {
+        id 189762,
+        str "pfam00901",
+        str "Orbi_VP5"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#11 - YP_096883.1",
+    comment "tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+ [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 1,
+        ids {
+          gi 52843084,
+          general {
+            db "CDD",
+            tag id 258194
+          }
+        },
+        starts {
+          544,
+          1
+        },
+        lens {
+          71
+        },
+        scores {
+        }
+      },
+      id {
+        id 258194,
+        str "pfam13932",
+        str "GIDA_assoc_3",
+        id 258194,
+        str "cl16485",
+        str "GIDA_assoc_3 superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 3,
+        ids {
+          gi 52843084,
+          general {
+            db "CDD",
+            tag id 235416
+          }
+        },
+        starts {
+          310,
+          277,
+          -1,
+          316,
+          349,
+          317
+        },
+        lens {
+          39,
+          1,
+          51
+        },
+        scores {
+        }
+      },
+      id {
+        id 276298,
+        str "cl21454",
+        str "SDR superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 3,
+        ids {
+          gi 52843084,
+          general {
+            db "CDD",
+            tag id 257778
+          }
+        },
+        starts {
+          103,
+          100,
+          136,
+          -1,
+          137,
+          133
+        },
+        lens {
+          33,
+          1,
+          21
+        },
+        scores {
+        }
+      },
+      id {
+        id 276298,
+        str "cl21454",
+        str "SDR superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 9,
+        ids {
+          gi 52843084,
+          general {
+            db "CDD",
+            tag id 235362
+          }
+        },
+        starts {
+          6,
+          4,
+          233,
+          -1,
+          234,
+          231,
+          396,
+          -1,
+          397,
+          393,
+          485,
+          -1,
+          488,
+          481,
+          526,
+          -1,
+          527,
+          519
+        },
+        lens {
+          227,
+          1,
+          162,
+          1,
+          88,
+          3,
+          38,
+          1,
+          95
+        },
+        scores {
+        }
+      },
+      id {
+        id 235362,
+        str "PRK05192",
+        str "PRK05192"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#12 - YP_096884.1",
+    comment "16S rRNA methyltransferase GidB [Legionella pneumophila subsp.
+ pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 5,
+        ids {
+          gi 52843085,
+          general {
+            db "CDD",
+            tag id 100107
+          }
+        },
+        starts {
+          71,
+          1,
+          89,
+          -1,
+          90,
+          19,
+          -1,
+          60,
+          131,
+          62
+        },
+        lens {
+          18,
+          1,
+          41,
+          2,
+          12
+        },
+        scores {
+        }
+      },
+      id {
+        id 100107,
+        str "cd02440",
+        str "AdoMet_MTases",
+        id 276194,
+        str "cl17173",
+        str "AdoMet_MTases superfamily"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#13 - YP_096885.1",
+    comment "sporulation initiation inhibitor protein Soj [Legionella
+ pneumophila subsp. pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 5,
+        ids {
+          gi 52843086,
+          general {
+            db "CDD",
+            tag id 238997
+          }
+        },
+        starts {
+          3,
+          0,
+          42,
+          -1,
+          117,
+          39,
+          168,
+          -1,
+          169,
+          90
+        },
+        lens {
+          39,
+          75,
+          51,
+          1,
+          14
+        },
+        scores {
+        }
+      },
+      id {
+        id 238997,
+        str "cd02042",
+        str "ParA",
+        id 276299,
+        str "cl21455",
+        str "ABC_ATPase superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 9,
+        ids {
+          gi 52843086,
+          general {
+            db "CDD",
+            tag id 238992
+          }
+        },
+        starts {
+          10,
+          6,
+          49,
+          -1,
+          56,
+          45,
+          -1,
+          65,
+          76,
+          70,
+          -1,
+          102,
+          108,
+          103,
+          -1,
+          112,
+          117,
+          113
+        },
+        lens {
+          39,
+          7,
+          20,
+          5,
+          32,
+          1,
+          9,
+          1,
+          15
+        },
+        scores {
+        }
+      },
+      id {
+        id 276299,
+        str "cl21455",
+        str "ABC_ATPase superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 7,
+        ids {
+          gi 52843086,
+          general {
+            db "CDD",
+            tag id 224113
+          }
+        },
+        starts {
+          0,
+          0,
+          -1,
+          33,
+          33,
+          34,
+          54,
+          -1,
+          55,
+          55,
+          -1,
+          79,
+          79,
+          81
+        },
+        lens {
+          33,
+          1,
+          21,
+          1,
+          24,
+          2,
+          172
+        },
+        scores {
+        }
+      },
+      id {
+        id 224113,
+        str "COG1192",
+        str "Soj"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#14 - YP_096886.1",
+    comment "chromosome partitioning protein ParB [Legionella pneumophila
+ subsp. pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 3,
+        ids {
+          gi 52843087,
+          general {
+            db "CDD",
+            tag id 251149
+          }
+        },
+        starts {
+          41,
+          7,
+          56,
+          -1,
+          57,
+          22
+        },
+        lens {
+          15,
+          1,
+          68
+        },
+        scores {
+        }
+      },
+      id {
+        id 251149,
+        str "pfam02195",
+        str "ParBc",
+        id 271576,
+        str "cl02129",
+        str "ParBc superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 7,
+        ids {
+          gi 52843087,
+          general {
+            db "CDD",
+            tag id 272946
+          }
+        },
+        starts {
+          41,
+          12,
+          -1,
+          49,
+          78,
+          51,
+          -1,
+          156,
+          183,
+          158,
+          -1,
+          173,
+          198,
+          175
+        },
+        lens {
+          37,
+          2,
+          105,
+          2,
+          15,
+          2,
+          12
+        },
+        scores {
+        }
+      },
+      id {
+        id 272946,
+        str "TIGR00180",
+        str "Probable_chromosome-partitioning_protein_ParB"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#15 - YP_096887.1",
+    comment "hypothetical protein lpg2893 [Legionella pneumophila subsp.
+ pneumophila str. Philadelphia 1]"
+  },
+  data align {
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#16 - YP_096888.1",
+    comment "cytochrome c oxidase subunit III [Legionella pneumophila subsp.
+ pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 11,
+        ids {
+          gi 52843089,
+          general {
+            db "CDD",
+            tag id 238834
+          }
+        },
+        starts {
+          16,
+          0,
+          38,
+          -1,
+          39,
+          22,
+          -1,
+          50,
+          67,
+          51,
+          114,
+          -1,
+          130,
+          98,
+          137,
+          -1,
+          147,
+          105,
+          215,
+          -1,
+          219,
+          173
+        },
+        lens {
+          22,
+          1,
+          28,
+          1,
+          47,
+          16,
+          7,
+          10,
+          68,
+          4,
+          69
+        },
+        scores {
+        }
+      },
+      id {
+        id 238834,
+        str "cd01665",
+        str "Cyt_c_Oxidase_III",
+        id 260264,
+        str "cl00211",
+        str "Heme_Cu_Oxidase_III_like superfamily"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#17 - YP_096889.1",
+    comment "cytochrome C oxidase assembly protein [Legionella pneumophila
+ subsp. pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 3,
+        ids {
+          gi 52843090,
+          general {
+            db "CDD",
+            tag id 235341
+          }
+        },
+        starts {
+          0,
+          2,
+          51,
+          -1,
+          54,
+          53
+        },
+        lens {
+          51,
+          3,
+          126
+        },
+        scores {
+        }
+      },
+      id {
+        id 235341,
+        str "PRK05089",
+        str "PRK05089",
+        id 260848,
+        str "cl01240",
+        str "CtaG_Cox11 superfamily"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#18 - YP_096890.1",
+    comment "cytochrome c oxidase subunit I [Legionella pneumophila subsp.
+ pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 11,
+        ids {
+          gi 52843091,
+          general {
+            db "CDD",
+            tag id 238833
+          }
+        },
+        starts {
+          33,
+          0,
+          -1,
+          64,
+          97,
+          65,
+          141,
+          -1,
+          142,
+          109,
+          -1,
+          128,
+          161,
+          130,
+          -1,
+          253,
+          284,
+          254,
+          498,
+          -1,
+          502,
+          468
+        },
+        lens {
+          64,
+          1,
+          44,
+          1,
+          19,
+          2,
+          123,
+          1,
+          214,
+          4,
+          20
+        },
+        scores {
+        }
+      },
+      id {
+        id 238833,
+        str "cd01663",
+        str "Cyt_c_Oxidase_I",
+        id 271455,
+        str "cl00275",
+        str "Heme_Cu_Oxidase_I superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 9,
+        ids {
+          gi 52843091,
+          general {
+            db "CDD",
+            tag id 249600
+          }
+        },
+        starts {
+          35,
+          0,
+          68,
+          -1,
+          69,
+          33,
+          158,
+          -1,
+          159,
+          122,
+          242,
+          -1,
+          246,
+          205,
+          -1,
+          423,
+          464,
+          426
+        },
+        lens {
+          33,
+          1,
+          89,
+          1,
+          83,
+          4,
+          218,
+          3,
+          18
+        },
+        scores {
+        }
+      },
+      id {
+        id 249600,
+        str "pfam00115",
+        str "COX1"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#19 - YP_096891.1",
+    comment "cytochrome c oxidase subunit II [Legionella pneumophila subsp.
+ pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 3,
+        ids {
+          gi 52843092,
+          general {
+            db "CDD",
+            tag id 259979
+          }
+        },
+        starts {
+          122,
+          0,
+          159,
+          -1,
+          163,
+          37
+        },
+        lens {
+          37,
+          4,
+          93
+        },
+        scores {
+        }
+      },
+      id {
+        id 259979,
+        str "cd13912",
+        str "CcO_II_C",
+        id 276230,
+        str "cl19115",
+        str "Cupredoxin superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 7,
+        ids {
+          gi 52843092,
+          general {
+            db "CDD",
+            tag id 225418
+          }
+        },
+        starts {
+          286,
+          24,
+          319,
+          -1,
+          322,
+          57,
+          -1,
+          65,
+          330,
+          66,
+          -1,
+          96,
+          360,
+          98
+        },
+        lens {
+          33,
+          3,
+          8,
+          1,
+          30,
+          2,
+          11
+        },
+        scores {
+        }
+      },
+      id {
+        id 276309,
+        str "cl21467",
+        str "Cytochrom_C superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 5,
+        ids {
+          gi 52843092,
+          general {
+            db "CDD",
+            tag id 202397
+          }
+        },
+        starts {
+          29,
+          4,
+          69,
+          -1,
+          70,
+          44,
+          80,
+          -1,
+          84,
+          54
+        },
+        lens {
+          40,
+          1,
+          10,
+          4,
+          29
+        },
+        scores {
+        }
+      },
+      id {
+        id 202397,
+        str "pfam02790",
+        str "COX2_TM",
+        id 202397,
+        str "cl03714",
+        str "COX2_TM superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 9,
+        ids {
+          gi 52843092,
+          general {
+            db "CDD",
+            tag id 214430
+          }
+        },
+        starts {
+          21,
+          1,
+          25,
+          -1,
+          30,
+          5,
+          53,
+          -1,
+          57,
+          28,
+          78,
+          -1,
+          79,
+          49,
+          154,
+          -1,
+          158,
+          124
+        },
+        lens {
+          4,
+          5,
+          23,
+          4,
+          21,
+          1,
+          75,
+          4,
+          99
+        },
+        scores {
+        }
+      },
+      id {
+        id 214430,
+        str "MTH00140",
+        str "COX2"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 9,
+        ids {
+          gi 52843092,
+          general {
+            db "CDD",
+            tag id 224921
+          }
+        },
+        starts {
+          288,
+          53,
+          310,
+          -1,
+          313,
+          75,
+          326,
+          -1,
+          327,
+          88,
+          -1,
+          100,
+          339,
+          102,
+          372,
+          -1,
+          373,
+          135
+        },
+        lens {
+          22,
+          3,
+          13,
+          1,
+          12,
+          2,
+          33,
+          1,
+          9
+        },
+        scores {
+        }
+      },
+      id {
+        id 224921,
+        str "COG2010",
+        str "CccA"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#20 - YP_096892.1",
+    comment "cytochrome c [Legionella pneumophila subsp. pneumophila str.
+ Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 3,
+        ids {
+          gi 52843093,
+          general {
+            db "CDD",
+            tag id 225784
+          }
+        },
+        starts {
+          328,
+          21,
+          391,
+          -1,
+          392,
+          84
+        },
+        lens {
+          63,
+          1,
+          41
+        },
+        scores {
+        }
+      },
+      id {
+        id 225784,
+        str "COG3245",
+        str "CycB",
+        id 276309,
+        str "cl21467",
+        str "Cytochrom_C superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 3,
+        ids {
+          gi 52843093,
+          general {
+            db "CDD",
+            tag id 225784
+          }
+        },
+        starts {
+          451,
+          47,
+          -1,
+          101,
+          505,
+          102
+        },
+        lens {
+          54,
+          1,
+          24
+        },
+        scores {
+        }
+      },
+      id {
+        id 225784,
+        str "COG3245",
+        str "CycB",
+        id 276309,
+        str "cl21467",
+        str "Cytochrom_C superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 11,
+        ids {
+          gi 52843093,
+          general {
+            db "CDD",
+            tag id 249527
+          }
+        },
+        starts {
+          234,
+          2,
+          242,
+          -1,
+          244,
+          10,
+          252,
+          -1,
+          270,
+          18,
+          -1,
+          23,
+          275,
+          26,
+          282,
+          -1,
+          283,
+          33,
+          312,
+          -1,
+          314,
+          62
+        },
+        lens {
+          8,
+          2,
+          8,
+          18,
+          5,
+          3,
+          7,
+          1,
+          29,
+          2,
+          24
+        },
+        scores {
+        }
+      },
+      id {
+        id 249527,
+        str "pfam00034",
+        str "Cytochrom_C",
+        id 276309,
+        str "cl21467",
+        str "Cytochrom_C superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 15,
+        ids {
+          gi 52843093,
+          general {
+            db "CDD",
+            tag id 224921
+          }
+        },
+        starts {
+          172,
+          4,
+          181,
+          -1,
+          187,
+          13,
+          204,
+          -1,
+          205,
+          30,
+          212,
+          -1,
+          221,
+          37,
+          -1,
+          79,
+          263,
+          81,
+          -1,
+          92,
+          274,
+          93,
+          282,
+          -1,
+          287,
+          101,
+          314,
+          -1,
+          315,
+          128
+        },
+        lens {
+          9,
+          6,
+          17,
+          1,
+          7,
+          9,
+          42,
+          2,
+          11,
+          1,
+          8,
+          5,
+          27,
+          1,
+          21
+        },
+        scores {
+        }
+      },
+      id {
+        id 224921,
+        str "COG2010",
+        str "CccA"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#21 - YP_096893.1",
+    comment "CapM protein, capsular polysaccharide biosynthesis [Legionella
+ pneumophila subsp. pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 17,
+        ids {
+          gi 52843094,
+          general {
+            db "CDD",
+            tag id 99974
+          }
+        },
+        starts {
+          7,
+          8,
+          -1,
+          35,
+          34,
+          42,
+          -1,
+          99,
+          91,
+          101,
+          -1,
+          124,
+          114,
+          144,
+          -1,
+          163,
+          133,
+          164,
+          -1,
+          175,
+          144,
+          180,
+          -1,
+          196,
+          160,
+          197,
+          -1,
+          264,
+          227,
+          266,
+          -1,
+          356,
+          317,
+          357
+        },
+        lens {
+          27,
+          7,
+          57,
+          2,
+          23,
+          20,
+          19,
+          1,
+          11,
+          5,
+          16,
+          1,
+          67,
+          2,
+          90,
+          1,
+          17
+        },
+        scores {
+        }
+      },
+      id {
+        id 99974,
+        str "cd03801",
+        str "GT1_YqgM_like",
+        id 275912,
+        str "cl10013",
+        str "Glycosyltransferase_GTB_type superfamily"
+      }
+    },
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 17,
+        ids {
+          gi 52843094,
+          general {
+            db "CDD",
+            tag id 223515
+          }
+        },
+        starts {
+          0,
+          2,
+          -1,
+          63,
+          61,
+          67,
+          -1,
+          95,
+          89,
+          100,
+          -1,
+          117,
+          106,
+          142,
+          136,
+          -1,
+          137,
+          172,
+          -1,
+          185,
+          150,
+          187,
+          -1,
+          247,
+          210,
+          248,
+          -1,
+          265,
+          227,
+          267,
+          -1,
+          357,
+          317,
+          358
+        },
+        lens {
+          61,
+          4,
+          28,
+          5,
+          17,
+          25,
+          30,
+          1,
+          13,
+          2,
+          60,
+          1,
+          17,
+          2,
+          90,
+          1,
+          21
+        },
+        scores {
+        }
+      },
+      id {
+        id 223515,
+        str "COG0438",
+        str "RfaG"
+      }
+    }
+  }
+}
+Seq-annot ::= {
+  desc {
+    title "Q#22 - YP_096894.1",
+    comment "amino acid transporter LysE [Legionella pneumophila subsp.
+ pneumophila str. Philadelphia 1]"
+  },
+  data align {
+    {
+      type partial,
+      segs denseg {
+        dim 2,
+        numseg 3,
+        ids {
+          gi 52843095,
+          general {
+            db "CDD",
+            tag id 224198
+          }
+        },
+        starts {
+          0,
+          1,
+          -1,
+          142,
+          141,
+          143
+        },
+        lens {
+          141,
+          1,
+          56
+        },
+        scores {
+        }
+      },
+      id {
+        id 224198,
+        str "COG1279",
+        str "COG1279",
+        id 275628,
+        str "cl00565",
+        str "LysE superfamily"
+      }
+    }
+  }
+}
