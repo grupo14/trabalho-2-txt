@@ -1,0 +1,7 @@
+(
+(
+>[Escherichia:0.26735,
+>[Vibrio:0.25870)
+:0.17268,
+>[Sinorhizobium:0.37785,
+>[Legionella:0.42285);
