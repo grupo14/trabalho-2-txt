@@ -1,0 +1,13 @@
+(
+(
+(
+>[Pseudomonas:0.23998,
+>[Bordetella:0.26693)
+:0.03473,
+>[Shewanella:0.28417)
+:0.01576,
+>[Photobacterium:0.30085,
+(
+>[Legionella:0.29197,
+>[Psychrobacter:0.31653)
+:0.02857);
