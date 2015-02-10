@@ -1,0 +1,16 @@
+(
+(
+(
+(
+>[Escherichia:0.01823,
+>[Salmonella:0.01594)
+:0.13868,
+>[Haemophilus:0.16860)
+:0.05779,
+>[Buchnera:0.27012)
+:0.02215,
+>[Legionella:0.26700,
+(
+>[Geobacillus:0.18878,
+>[Staphylococcus:0.20308)
+:0.16467);
