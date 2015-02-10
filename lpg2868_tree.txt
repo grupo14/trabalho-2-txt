@@ -1,0 +1,16 @@
+(
+(
+(
+(
+>[Cronobacter:0.06723,
+>[Photorhabdus:0.05777)
+:0.01294,
+>[Sodalis:0.10069)
+:0.02533,
+(
+>[Legionella:0.12045,
+>[Cupriavidus:0.14091)
+:0.02959)
+:0.01018,
+>[Shewanella:0.09730,
+>[Aeromonas:0.09209);
