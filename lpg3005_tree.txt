@@ -1,0 +1,16 @@
+(
+(
+(
+>[Pseudoalteromonas:0.08605,
+>[Cellvibrio:0.11850)
+:0.01730,
+(
+>[Geobacter:0.06456,
+>[Pelobacter:0.03749)
+:0.12158)
+:0.02153,
+(
+>[Nitrosococcus:0.11648,
+>[Stenotrophomonas:0.13352)
+:0.01989,
+>[Legionella:0.08239);
