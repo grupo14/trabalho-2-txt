@@ -1,0 +1,13 @@
+(
+>[Rickettsia:0.26284,
+>[Arabidopsis:0.26494,
+(
+(
+(
+>[Rhizobium:0.18829,
+>[Sinorhizobium:0.18544)
+:0.03477,
+>[Mesorhizobium:0.21052)
+:0.06506,
+>[Legionella:0.37938)
+:0.02692);
