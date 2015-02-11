@@ -1,0 +1,7 @@
+(
+(
+>[Streptomyces:0.38351,
+>[Bacillus:0.36239)
+:0.04068,
+>[Legionella:0.38073,
+>[Staphylococcus:0.41874);
