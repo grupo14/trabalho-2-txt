@@ -1,0 +1,13 @@
+(
+(
+(
+>[Saccharomyces:0.31792,
+>[Schizosaccharomyces:0.33532)
+:0.07490,
+>[Legionella:0.38742)
+:0.00454,
+>[Bacillus:0.43568,
+(
+>[Bradyrhizobium:0.42584,
+>[Trichoderma:0.45054)
+:0.02823);
