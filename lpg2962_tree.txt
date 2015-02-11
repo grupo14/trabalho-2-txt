@@ -1,0 +1,7 @@
+(
+(
+>[Bordetella:0.30217,
+>[Mycobacterium:0.35573)
+:0.11333,
+>[Vibrio:0.36614,
+>[legionella:0.36531);
