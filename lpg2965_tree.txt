@@ -1,0 +1,7 @@
+(
+(
+>[Buchnera:0.25674,
+>[Helicobacter:0.23557)
+:0.02405,
+>[legionella:0.21846,
+>[Rattus:0.30195);
