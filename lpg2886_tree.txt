@@ -1,0 +1,7 @@
+(
+(
+>[Pseudomonas:0.14370,
+>[Dechloromonas:0.15227)
+:0.05164,
+>[Legionella:0.16117,
+>[Coxiella:0.19724);
