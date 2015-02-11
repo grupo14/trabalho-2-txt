@@ -1,0 +1,7 @@
+(
+(
+>[Legionella:0.36738,
+>[Campylobacter:0.36786)
+:0.03049,
+>[Nostoc:0.35593,
+>[Lactococcus:0.39663);
