@@ -1,0 +1,7 @@
+(
+(
+>[Pseudomonas:0.08890,
+>[Salmonella:0.09726)
+:0.00774,
+>[Allochromatium:0.10014,
+>[Legionella:0.11278);
