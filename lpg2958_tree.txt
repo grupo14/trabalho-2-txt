@@ -1,0 +1,7 @@
+(
+>[legionella:0.30036,
+>[Pyrococcus:0.35222,
+(
+>[Bacillus:0.40902,
+>[Shigella:0.43831)
+:0.03311);
