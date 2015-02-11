@@ -1,0 +1,13 @@
+(
+(
+(
+(
+>[Klebsiella:0.02511,
+>[Escherichia:0.02363)
+:0.04861,
+>[Pectobacterium:0.07199)
+:0.12079,
+>[Thiomicrospira:0.17783)
+:0.00937,
+>[Nitrosococcus:0.17053,
+>[Legionella:0.19474);
