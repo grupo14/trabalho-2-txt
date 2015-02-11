@@ -1,0 +1,10 @@
+(
+>[Haemophilus:0.25600,
+>[Actinobacillus:0.27803,
+(
+>[Escherichia:0.26377,
+(
+>[Anaplasma:0.38451,
+>[Legionella:0.40460)
+:0.08797)
+:0.00348);
