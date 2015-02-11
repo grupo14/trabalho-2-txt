@@ -1,0 +1,16 @@
+(
+(
+(
+>[Escherichia:0.04175,
+>[Salmonella:0.04820)
+:0.13639,
+>[Thauera:0.20513)
+:0.03219,
+>[Legionella:0.20707,
+(
+>[Neisseria:0.25396,
+(
+>[Rickettsia:0.20145,
+>[Bacillus:0.24829)
+:0.03176)
+:0.00703);
