@@ -1,0 +1,7 @@
+(
+(
+>[Schizosaccharomyces:0.20097,
+>[Ogataea:0.21292)
+:0.16975,
+>[Legionella:0.26138,
+>[Arthrobacter:0.30466);
