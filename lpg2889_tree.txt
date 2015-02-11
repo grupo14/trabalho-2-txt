@@ -1,0 +1,13 @@
+(
+(
+(
+>[Salmonella:0.10870,
+>[Vibrio:0.09639)
+:0.02845,
+>[Shewanella:0.12338)
+:0.00539,
+(
+>[Idiomarina:0.11179,
+>[Pseudoalteromonas:0.11874)
+:0.01051,
+>[Legionella:0.18833);
