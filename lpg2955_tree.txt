@@ -1,0 +1,7 @@
+(
+(
+>[Colwellia:0.11494,
+>[Photobacterium:0.11664)
+:0.04543,
+>[Halorhodospira:0.15819,
+>[legionella:0.19475);
