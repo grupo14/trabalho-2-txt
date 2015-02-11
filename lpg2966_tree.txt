@@ -1,0 +1,7 @@
+(
+(
+>[Haemophilus:0.10548,
+>[Pasteurella:0.10947)
+:0.02252,
+>[Escherichia:0.15247,
+>[legionella:0.22955);
