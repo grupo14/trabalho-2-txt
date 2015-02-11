@@ -1,0 +1,13 @@
+(
+(
+(
+(
+>[Legionella:0.19475,
+>[Pseudomonas:0.19197)
+:0.04378,
+>[Thermus:0.23021)
+:0.02554,
+>[Caulobacter:0.24738)
+:0.02070,
+>[Bacillus:0.22278,
+>[Treponema:0.22922);
