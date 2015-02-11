@@ -1,0 +1,7 @@
+(
+(
+>[Haemophilus:0.34256,
+>[Escherichia:0.34721)
+:0.06833,
+>[Legionella:0.40055,
+>[Mycobacterium:0.44078);
