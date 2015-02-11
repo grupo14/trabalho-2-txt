@@ -1,0 +1,7 @@
+(
+>[Pseudomonas:0.11048,
+>[Azotobacter:0.11111,
+(
+>[Marinobacter:0.20784,
+>[Legionella:0.27378)
+:0.07399);
