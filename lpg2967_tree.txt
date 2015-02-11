@@ -1,0 +1,7 @@
+(
+(
+>[Salmonella:0.13332,
+>[Pseudomonas:0.15314)
+:0.00470,
+>[Bordetella:0.11581,
+>[legionella:0.18106);
