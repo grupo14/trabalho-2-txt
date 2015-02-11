@@ -1,0 +1,10 @@
+(
+(
+(
+>[Escherichia:0.06324,
+>[Klebsiella:0.05999)
+:0.11812,
+>[Yersinia:0.15197)
+:0.09442,
+>[Aeromonas:0.26276,
+>[Legionella:0.40391);
