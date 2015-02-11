@@ -1,0 +1,10 @@
+(
+(
+>[Pseudoalteromonas:0.20236,
+>[Psychromonas:0.19595)
+:0.03540,
+>[Shewanella:0.25274,
+(
+>[Legionella:0.26855,
+>[Marinomonas:0.29596)
+:0.03922);
