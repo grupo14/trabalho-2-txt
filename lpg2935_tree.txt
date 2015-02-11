@@ -1,0 +1,7 @@
+(
+(
+>[Pseudomonas:0.13657,
+>[Escherichia:0.14120)
+:0.03009,
+>[Acidithiobacillus:0.14120,
+>[Legionella:0.26620);
