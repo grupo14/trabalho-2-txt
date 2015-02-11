@@ -1,0 +1,7 @@
+(
+(
+>[Nitrosococcus:0.17527,
+>[Vibrio:0.19607)
+:0.04115,
+>[Coxiella:0.19742,
+>[legionella:0.24026);
