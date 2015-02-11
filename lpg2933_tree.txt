@@ -1,0 +1,7 @@
+(
+(
+>[Yersinia:0.06432,
+>[Escherichia:0.04904)
+:0.06052,
+>[Cellvibrio:0.10491,
+>[Legionella:0.14509);
