@@ -1,0 +1,7 @@
+(
+(
+>[Legionella:0.21683,
+>[Nitrosococcus:0.23239)
+:0.08224,
+>[Shewanella:0.18144,
+>[Proteus:0.19310);
