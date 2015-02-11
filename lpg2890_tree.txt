@@ -1,0 +1,13 @@
+(
+(
+(
+>[Enterobacter:0.06757,
+>[Shigella:0.07736)
+:0.12679,
+>[Psychromonas:0.19831)
+:0.02101,
+>[Alteromonas:0.20506,
+(
+>[Pseudomonas:0.25859,
+>[Legionella:0.27539)
+:0.05948);
