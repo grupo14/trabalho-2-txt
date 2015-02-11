@@ -1,0 +1,7 @@
+(
+>[Vibrio:0.10736,
+>[Cronobacter:0.09981,
+(
+>[Haemophilus:0.13529,
+>[Legionella:0.24471)
+:0.01970);
