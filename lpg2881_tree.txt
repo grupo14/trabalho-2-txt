@@ -1,0 +1,10 @@
+(
+(
+(
+>[Hahella:0.12896,
+>[Pseudomonas:0.13805)
+:0.04170,
+>[Shewanella:0.20244)
+:0.03254,
+>[Thiobacillus:0.21758,
+>[Legionella:0.24444);
