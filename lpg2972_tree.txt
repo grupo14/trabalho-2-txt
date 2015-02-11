@@ -1,0 +1,7 @@
+(
+(
+>[Bacillus:0.24044,
+>[Pyrococcus:0.24160)
+:0.02019,
+>[Schizosaccharomyces:0.29426,
+>[legionella:0.39109);
