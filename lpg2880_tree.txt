@@ -1,0 +1,13 @@
+(
+(
+(
+>[Haemophilus:0.08117,
+>[Escherichia:0.08471)
+:0.05960,
+>[Legionella:0.12761)
+:0.03799,
+>[Buchnera:0.28148,
+(
+>[Rickettsia:0.21890,
+>[Treponema:0.25225)
+:0.04656);
