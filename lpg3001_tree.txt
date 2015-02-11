@@ -1,0 +1,13 @@
+(
+(
+>[Yersinia:0.04172,
+>[Pectobacterium:0.04859)
+:0.02214,
+>[Photorhabdus:0.07587,
+(
+>[Mannheimia:0.14261,
+(
+>[Saccharophagus:0.18077,
+>[Legionella:0.22597)
+:0.04055)
+:0.06403);
