@@ -1,0 +1,7 @@
+(
+>[Bacillus:0.25712,
+>[Bartonella:0.24506,
+(
+>[Legionella:0.24733,
+>[Pasteurella:0.27669)
+:0.00389);
