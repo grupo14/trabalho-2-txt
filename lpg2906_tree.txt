@@ -1,0 +1,7 @@
+(
+>[Legionella:0.33607,
+(
+>[Bdellovibrio:0.38257,
+>[Prochlorococcus:0.40224)
+:0.01141,
+>[Neisseria:0.37179);
